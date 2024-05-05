@@ -1,0 +1,23 @@
+{
+  "name": "openai-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidSparker0417/ai-openai-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidSparker0417/ai-openai-api/issues"
+  },
+  "homepage": "https://github.com/DavidSparker0417/ai-openai-api#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "openai": "^4.40.1"
+  }
+}
